@@ -7,10 +7,14 @@ Simpan private key di privkey.txt
 untuk multi bisa dengan menaruh privatekey tiap barisnya
 
 ## Install Dependencies
-```npm i```
+```
+npm i
+```
 
 ## Run Checker
-```node index.js```
+```
+node index.js
+```
 
 ## ERROR
 ![image](https://github.com/user-attachments/assets/e03fbc1f-21bb-4d69-8f50-4d70bd7563d6)
