@@ -18,5 +18,6 @@ node index.js
 
 ## ERROR
 ![image](https://github.com/user-attachments/assets/e03fbc1f-21bb-4d69-8f50-4d70bd7563d6)
+
 Kalau error kaya gitu, edit script cara kata kunci `bs58.default.decode` dan `bs58.default.encode`
 hapus default contoh : `bs58.decode` dan `bs58.encode`
